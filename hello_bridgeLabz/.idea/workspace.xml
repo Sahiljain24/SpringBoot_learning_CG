@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e2c4c82-8171-4cc3-b6e3-98130340ee2f" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 161e197e7841ce155c340cde7a98303474e39e03
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +47,12 @@
     "Application.HelloBridgeLabzApplication.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "git-widget-placeholder": "main",
+=======
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "UC__3",
+>>>>>>> 161e197e7841ce155c340cde7a98303474e39e03
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Sahil Jain/Desktop/Training/Week_06/Spring/hello_bridgeLabz/pom.xml",
     "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
