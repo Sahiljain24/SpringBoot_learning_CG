@@ -11,4 +11,8 @@ public class FirstController {
     public String greetHello(){
        return "HELlo From BridgeLabz";
     }
+    @GetMapping("/")
+    public String hello(){
+        return "HELlo ";
+    }
 }
